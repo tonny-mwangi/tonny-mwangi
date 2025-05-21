@@ -22,6 +22,12 @@
     <a href="https://x.com/thatdudeTM" target="_blank">
         <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
     </a>
+    <a href="https://x.com/thatdudeTM" target="_blank">
+        <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
+    </a>
+    <a href="https://x.com/thatdudeTM" target="_blank">
+        <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
+    </a>
     <a href="https://instagram.com/your_instagram_username" target="_blank">
         <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
     </a>
