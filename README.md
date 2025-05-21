@@ -19,9 +19,6 @@
 <details open>
 <summary align="center"><h2 ><img alt="GIF" src="./Image//handshake2.gif" width="25px"> Social Media </h2></summary>
 <div id="badges" align="center">
-    <a href="https://t.me/K1rsN7" target="_blank">
-    <img  lign="left"src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/> 
-    </a>
     <a href="https://x.com/thatdudeTM" target="_blank">
         <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
     </a>
