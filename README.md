@@ -10,7 +10,7 @@
     <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
         <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a college student, studying to be a full-stack developer.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in IT events.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in Bootcamps and AI Safaris.</a></li><br>
         <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</a></li><br>
         <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
     </ul>
@@ -22,14 +22,11 @@
     <a href="https://t.me/K1rsN7" target="_blank">
     <img  lign="left"src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/> 
     </a>
-    <a href="https://vk.com/K1rsN7" target="_blank">
-    <img lign="left" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>  
+    <a href="https://x.com/thatdudeTM" target="_blank">
+        <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
     </a>
-    <a href="https://discord.com/users/519507183436824587/" target="_blank">
-    <img lign="left" src="https://www.svgviewer.dev/static-svgs/34446/discord-v2.svg" width="40" height="40" alt="Discord"/> 
-    </a>
-    <a href="https://www.kaggle.com/k1rsn7" target="_blank">
-    <img lign="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/>
+    <a href="https://instagram.com/your_instagram_username" target="_blank">
+        <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
     </a>
 </div>
 <br>
