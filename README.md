@@ -108,8 +108,8 @@
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
-    <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1rsN7&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
-      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=K1rsN7&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+    <img height="192px" alt="tonny-mwangi's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonny-mwangi&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=tonny-mwangi&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
 <!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
   </div>
   <div align="center">
