@@ -5,11 +5,11 @@
 <br>
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
-    <p align="center"> I am an intern Data Scientist  <img src="./Image/cat-coder.gif" width="30px"> from Nizhny Novgorod.</p>
+    <p align="center"> I am a MERN student  <img src="./Image/cat-coder.gif" width="30px"> from Nairobi Kenya.</p>
     <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
     <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
-        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a college student, studying to be a programmer.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a college student, studying to be a full stack developer.</a></li><br>
         <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in IT events.</a></li><br>
         <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</a></li><br>
         <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
