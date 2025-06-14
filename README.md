@@ -6,6 +6,7 @@
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Brief Biography </h2></summary>
     <p align="center"> I am a Full stack Developer  <img src="./Image/cat-coder.gif" width="30px"> from Nairobi Kenya.</p>
+    <p align="center">"The only way to write good code is to write a lot of bad code" ~ T.M</p>
     <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
     <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
