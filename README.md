@@ -11,7 +11,7 @@
     <ul>
         <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a college student, currently pursuing MERN Stack Specialization.</a></li><br>
         <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in Bootcamps and Vibe Coding sessions .</a></li><br>
-        <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in chess and football.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I bet I can beat you at chess and darts.</a></li><br>
         <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; To me, everyday is a learning day.</a></li><br>
     </ul>
 <br>
