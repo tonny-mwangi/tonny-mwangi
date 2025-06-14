@@ -4,15 +4,15 @@
 </div> 
 <br>
 <details open>
-    <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
-    <p align="center"> I am a MERN student  <img src="./Image/cat-coder.gif" width="30px"> from Nairobi Kenya.</p>
+    <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Brief Biography </h2></summary>
+    <p align="center"> I am a Full stack Developer  <img src="./Image/cat-coder.gif" width="30px"> from Nairobi Kenya.</p>
     <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
     <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
-        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a college student, currently studying MERN STACK.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in Bootcamps and AI Safaris .</a></li><br>
-        <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a college student, currently pursuing MERN Stack Specialization.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in Bootcamps and Vibe Coding sessions .</a></li><br>
+        <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in chess and football.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; To me, everyday is a learning day.</a></li><br>
     </ul>
 <br>
 </details>
